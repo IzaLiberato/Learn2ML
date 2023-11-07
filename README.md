@@ -6,8 +6,6 @@ Instruções:
   
 Dica:
 
-Inicialmente a pasta ml-base-pipeline é mais interessante para iniciantes
-
-A pasta MLcourse poderia ser melhor aproveitada em segundo
-
-A pasta ICA é um compilado de praticas de algoritmos de Machine Learning com alguns materias de estudo inicial.
+- Inicialmente a pasta ml-base-pipeline é mais interessante para iniciantes.
+- A pasta MLcourse poderia ser melhor aproveitada em segundo.
+- A pasta ICA é um compilado de praticas de algoritmos de Machine Learning com alguns materias de estudo inicial.
